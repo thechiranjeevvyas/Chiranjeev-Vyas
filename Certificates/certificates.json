@@ -1,0 +1,53 @@
+{
+  "CEH": [
+    {
+      "name": "CEHv12 : Certified Ethical Hacker",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/great-learning-css.webp",
+      "credLink": "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=d/7uh++nul24lkhWmdf/ZOnBJZjBZyL0XQ2AohhNXvU="
+    }
+  ],
+  "Cisco": [
+    {
+      "name": "CCNAv7 : Packer Tracer",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/udemy-modern-javascript-for-react-js.webp",
+      "credLink": "https://www.credly.com/badges/1f1550a8-271a-4400-a4a4-4e03f4a6fe37"
+    },
+    {
+      "name": "Cisco Cyber Essentials",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/udemy-mastering-the-interview.webp",
+      "credLink": "https://www.credly.com/badges/6d87387b-e052-4bb3-86f9-573578bbf20b"
+    },
+    {
+      "name": "Cisco :Introduction to Packet Tracer",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/udemy-javascript-fundamentals.webp",
+      "credLink": "https://www.credly.com/earner/earned/badge/31149bb5-74f7-4c76-836a-4302af09be77/"
+    }
+  ],
+  "others": [
+    {
+      "name": "IIITD: Ethical Hacking Workshop",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/JavaScript-Algorithms-and-Data-Structures.webp",
+      "credLink": "https://drive.google.com/file/d/1pI-0AHk8BeBLqpwjw5VXcazcpY7YZtXZ/view?usp=drive_link"
+    },
+    {
+      "name": "Ethical Hacking Internshala Trainings",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/typing.webp",
+      "credLink": "https://drive.google.com/file/d/1BdXCIOrl6MYAH-bbCfD07nGHRVWds0Kf/view?usp=sharing"
+    },
+    {
+      "name": "Python Crash Course Coursera",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/IFACETIITK.webp",
+      "credLink": "https://www.coursera.org/account/accomplishments/verify/H5PRCE5VTQ33"
+    },
+    {
+      "name": "SIH 2024 ",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/IFACETIITK.webp",
+      "credLink": "https://drive.google.com/file/d/1uGVQJ-514bCE8aU57RsQoZcXxqd14ADv/view?usp=sharing"
+    },
+    {
+      "name": "XCELERATE IDEATHON 2.0 ",
+      "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/certificates/IFACETIITK.webp",
+      "credLink": "https://drive.google.com/file/d/1Iu7N-z__lQyVslXS1bPHQIddXdySJekF/view?usp=sharing"
+    }
+  ]
+}
