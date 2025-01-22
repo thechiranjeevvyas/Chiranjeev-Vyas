@@ -1,0 +1,82 @@
+[
+  {
+    "name": "HTML5",
+    "link": "https://en.wikipedia.org/wiki/HTML5",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
+  },
+  {
+    "name": "CSS3",
+    "link": "https://www.w3schools.com/css/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+  },
+  {
+    "name": "JavaScript",
+    "link": "https://www.javascript.com/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+  },
+  {
+    "name": "Python",
+    "link": "https://www.python.org/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/python-original.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "link": "https://www.tailwindcss.com/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
+  },
+  {
+    "name": "Linux",
+    "link": "https://www.linux.com/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/linux-original.svg"
+  },
+  {
+    "name": "React",
+    "link": "https://reactjs.org/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
+  },
+  {
+    "name": "Flutter",
+    "link": "https://flutter.dev/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg"
+  },
+  {
+    "name": "Figma",
+    "link": "https://www.figma.com/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/figma-icon.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "link": "https://getbootstrap.com/docs/3.4/javascript/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
+  },
+  {
+    "name": "Git",
+    "link": "https://github.com/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
+  },
+  {
+    "name": "WordPress",
+    "link": "https://wordpress.com/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/wordpress.png"
+  },
+  {
+    "name": "Photoshop",
+    "link": "https://www.adobe.com/in/products/photoshop.html",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"
+  },
+  {
+    "name": "MySQL",
+    "link": "https://www.mysql.com/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"
+  },
+  {
+    "name": "Node.js",
+    "link": "https://nodejs.org/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
+  },
+  {
+    "name": "XAMPP",
+    "link": "https://www.apachefriends.org/",
+    "imgLink": "https://profilinator.rishav.dev/skills-assets/xampp.png"
+  }
+]
