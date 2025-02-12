@@ -1,9 +1,9 @@
 [
   {
     "title": "Kavach AI",
-    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/main.webp",
+    "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/kavach.webp",
     "imgs": [
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/1.webp",
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/resume2.webp",
       "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/2.webp",
       "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/3.webp",
       "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/4.webp",
@@ -20,10 +20,10 @@
   },
   {
     "title": "Dietmate",
-    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/main.webp",
+    "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/dietmate.webp",
     "imgs": [
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/2.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/3.webp",
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/dietmate2.webp",
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/dietmate3.webp",
       "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/4.webp"
     ],
     "stack": ["PYTHON", "HTML", "CSS", "JAVASCRIPT", "PHP", "DOCKER"],
@@ -35,10 +35,10 @@
   },
   {
     "title": "Portfolio 2023",
-    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/main.webp",
+    "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/Resume.webp",
     "imgs": [
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/2.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/3.webp",
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/resume2.webp",
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/resume3.webp",
       "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/4.webp"
     ],
     "stack": ["HTML5", "CSS3", "JAVASCRIPT", "GITHUB"],
