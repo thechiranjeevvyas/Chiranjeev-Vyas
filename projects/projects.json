@@ -3,13 +3,7 @@
     "title": "Kavach AI",
     "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/kavach.webp",
     "imgs": [
-      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/resume2.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/2.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/3.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/4.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/5.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/6.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/7.webp"
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/kavach.webp"
     ],
     "stack": ["PYTHON", "DJANGO", "JUPYTER NOTEBOOK", "DOCKER"],
     "desc": "Kavach AI aims to detect and mitigate malware threats by leveraging Python's powerful libraries and a robust Django-based GUI.",
@@ -19,12 +13,38 @@
     "isInDevelopment": false
   },
   {
+    "title": "Email Hunter",
+    "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/EmailHunter.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/EmailHunter.webp"
+    ],
+    "stack": ["PYTHON","BeautifulSoup"],
+    "desc": "Email Hunter – A Python-based tool to extract emails from any website. Supports bulk scraping, custom headers, and exports results in multiple formats. Efficient and easy to use! 🚀",
+    "link": "https://github.com/thechiranjeevvyas/EmailHunter",
+    "gitLink": "https://github.com/thechiranjeevvyas/EmailHunter",
+    "year": "2-2025",
+    "isInDevelopment": false
+  },
+  {
+    "title": "HoneyPy",
+    "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/kavach.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/resume2.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/2.webp"
+    ],
+    "stack": ["PYTHON", "DJANGO", "JUPYTER NOTEBOOK", "DOCKER"],
+    "desc": "Kavach AI aims to detect and mitigate malware threats by leveraging Python's powerful libraries and a robust Django-based GUI.",
+    "link": "https://github.com/thechiranjeevvyas/kavach-ai-using-ml",
+    "gitLink": "https://github.com/thechiranjeevvyas/kavach-ai-using-ml",
+    "year": "1-2024",
+    "isInDevelopment": true
+  },
+  {
     "title": "Dietmate",
     "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/dietmate.webp",
     "imgs": [
       "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/dietmate2.webp",
-      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/dietmate3.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/4.webp"
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/dietmate3.webp"
     ],
     "stack": ["PYTHON", "HTML", "CSS", "JAVASCRIPT", "PHP", "DOCKER"],
     "desc": "Dietmate is a smart diet planning application that uses machine learning to create personalized diet plans.",
@@ -38,14 +58,13 @@
     "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/Resume.webp",
     "imgs": [
       "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/resume2.webp",
-      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/resume3.webp",
-      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/4.webp"
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/resume3.webp"
     ],
     "stack": ["HTML5", "CSS3", "JAVASCRIPT", "GITHUB"],
     "desc": "Welcome to the repository for my personal portfolio website! This project is built using JavaScript and showcases my skills, projects, and experiences as a developer and pentester.",
     "link": "https://github.com/thechiranjeevvyas/resume",
     "gitLink": "https://github.com/thechiranjeevvyas/resume",
-    "year": "3-2024",
+    "year": "12-2023 to 2-2024",
     "isInDevelopment": false
   }
 ]
