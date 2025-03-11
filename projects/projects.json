@@ -33,10 +33,10 @@
       "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/2.webp"
     ],
     "stack": ["PYTHON", "DJANGO", "JUPYTER NOTEBOOK", "DOCKER"],
-    "desc": "Kavach AI aims to detect and mitigate malware threats by leveraging Python's powerful libraries and a robust Django-based GUI.",
-    "link": "https://github.com/thechiranjeevvyas/kavach-ai-using-ml",
-    "gitLink": "https://github.com/thechiranjeevvyas/kavach-ai-using-ml",
-    "year": "1-2024",
+    "desc": "HoneyPy - A Python-based honeypot project designed to detect and log malicious activities. Currently in development with ongoing feature enhancements.",
+    "link": "https://github.com/thechiranjeevvyas/Honeypot",
+    "gitLink": "https://github.com/thechiranjeevvyas/Honeypot",
+    "year": "2-2025",
     "isInDevelopment": true
   },
   {
