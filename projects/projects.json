@@ -13,6 +13,19 @@
     "isInDevelopment": false
   },
   {
+    "title": "SafeURL",
+    "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/assets/preview.png",
+    "imgs": [
+      "https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/assets/preview.png"
+    ],
+    "stack": ["PYTHON","Streamlit","Jupyter Notebook"],
+    "desc": "SafeURL is an AI-powered malicious URL detection system that utilizes a Neural Network optimized by Genetic Algorithms to classify URLs as safe or malicious.",
+    "link": "https://github.com/thechiranjeevvyas/SafeURL",
+    "gitLink": "https://github.com/thechiranjeevvyas/SafeURL",
+    "year": "3-2025",
+    "isInDevelopment": true
+  },
+  {
     "title": "Email Hunter",
     "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/EmailHunter.webp",
     "imgs": [
@@ -22,7 +35,7 @@
     "desc": "Email Hunter – A Python-based tool to extract emails from any website. Supports bulk scraping, custom headers, and exports results in multiple formats. Efficient and easy to use! 🚀",
     "link": "https://github.com/thechiranjeevvyas/EmailHunter",
     "gitLink": "https://github.com/thechiranjeevvyas/EmailHunter",
-    "year": "2-2025",
+    "year": "1-2025",
     "isInDevelopment": false
   },
   {
