@@ -1,16 +1,29 @@
-[
+  [
   {
-    "title": "Kavach AI",
+    "title": "Fortress",
     "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/kavach.webp",
     "imgs": [
       "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/kavach.webp"
     ],
     "stack": ["PYTHON", "DJANGO", "JUPYTER NOTEBOOK", "DOCKER"],
-    "desc": "Kavach AI aims to detect and mitigate malware threats by leveraging Python's powerful libraries and a robust Django-based GUI.",
-    "link": "https://github.com/thechiranjeevvyas/kavach-ai-using-ml",
-    "gitLink": "https://github.com/thechiranjeevvyas/kavach-ai-using-ml",
+    "desc": "Fortress AI aims to detect and mitigate malware threats by leveraging Python's powerful libraries and a robust Django-based GUI.",
+    "link": "https://github.com/thechiranjeevvyas/Fortress",
+    "gitLink": "https://github.com/thechiranjeevvyas/Fortress",
     "year": "1-2024",
     "isInDevelopment": false
+  },
+  {
+    "title": "Kavach",
+    "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/assets/preview.png",
+    "imgs": [
+      "https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/assets/preview.png"
+    ],
+    "stack": ["PYTHON","Streamlit","Jupyter Notebook"],
+    "desc": "KAVACH is a powerful, privacy-centric text redaction and sanitation system built to shield sensitive user data from exposure to Large Language Models (LLMs) 🤖.",
+    "link": "https://github.com/thechiranjeevvyas/Kavach",
+    "gitLink": "https://github.com/thechiranjeevvyas/KavachL",
+    "year": "6-2025",
+    "isInDevelopment": true
   },
   {
     "title": "SafeURL",
@@ -23,7 +36,7 @@
     "link": "https://github.com/thechiranjeevvyas/SafeURL",
     "gitLink": "https://github.com/thechiranjeevvyas/SafeURL",
     "year": "3-2025",
-    "isInDevelopment": true
+    "isInDevelopment": false
   },
   {
     "title": "Email Hunter",
