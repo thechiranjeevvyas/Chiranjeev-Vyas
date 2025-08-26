@@ -39,6 +39,19 @@
     "isInDevelopment": false
   },
   {
+    "title": "Mask IT",
+    "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/maskit.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/maskit.webp"
+    ],
+    "stack": ["JS","HTML","CSS"],
+    "desc": "A lightweight, offline-first, privacy-respecting password obfuscation tool",
+    "link": "https://github.com/thechiranjeevvyas/Mask-IT",
+    "gitLink": "https://mask-iit.netlify.app/",
+    "year": "8-2025",
+    "isInDevelopment": false
+  },
+  {
     "title": "Email Hunter",
     "imgSrc": "https://raw.githubusercontent.com/thechiranjeevvyas/Chiranjeev-Vyas/refs/heads/main/projects/EmailHunter.webp",
     "imgs": [
